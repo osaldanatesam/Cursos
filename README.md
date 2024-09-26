@@ -1,3 +1,3 @@
 # Cursos
 
-## para particas de distintos cursos 
+es un repositorio para ir haciendo distintos curos.  
