@@ -1,3 +1,6 @@
 # Cursos
 
-es un repositorio para ir haciendo distintos curos.  
+Es un repositorio para ir haciendo distintos curos.
+
+
+## Curso de Github  
